@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: warehouse-service
+    udp:
+      channels: '{ "temperature": 4002,"humidity": 4003 }'
+    countDownLatchValue: 1
+  kafka:
+    producer:
+      bootstrap-servers: 127.0.0.1:9092
+      key-serializer: org.apache.kafka.common.serialization.StringSerializer
+      value-serializer: org.apache.kafka.common.serialization.StringSerializer
+      topic: sensor-topic

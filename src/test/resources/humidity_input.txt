@@ -1,0 +1,11 @@
+sensor_id=h1; value=30
+sensor_id=h1; value=50
+sensor_id=h1; value=60
+sensor_id=h1; value=35
+sensor_id=h1; value=30
+sensor_id=h1; value=37
+sensor_id=h1; value=75
+sensor_id=h1; value=20
+sensor_id=h1; value=50
+sensor_id=h1; value=95
+sensor_id=h1; value=23
