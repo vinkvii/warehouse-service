@@ -143,4 +143,4 @@ You can customize the service by:
 
 ---
 
-This `README.md` provides the basic setup and instructions for running the `warehouse-service` that listens on UDP ports and publishes to Kafka. Let me know if you need any further adjustments!
+This `README.md` provides the basic setup and instructions for running the `warehouse-service` that listens on UDP ports and publishes to Kafka.
