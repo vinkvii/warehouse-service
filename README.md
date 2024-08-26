@@ -66,8 +66,7 @@ spring:
 
 # UDP Channel Configuration
 udp:
-  udp:
-      channels: '{ "temperature": 4002,"humidity": 4003 }'
+  channels: '{ "temperature": 4002,"humidity": 4003 }'
 ```
 
 ## Setup
@@ -131,8 +130,7 @@ The service listens on the UDP ports defined in the `application.yml` file. The 
 Example configuration:
 ```yaml
 udp:
-  udp:
-      channels: '{ "temperature": 4002,"humidity": 4003 }'
+  channels: '{ "temperature": 4002,"humidity": 4003 }'
 ```
 
 ## Customization
