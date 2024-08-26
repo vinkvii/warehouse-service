@@ -1,5 +1,3 @@
-Here is a sample `README.md` for your `warehouse-service` running Spring Boot and Kafka, which listens on UDP ports:
-
 ---
 
 # Warehouse Service
